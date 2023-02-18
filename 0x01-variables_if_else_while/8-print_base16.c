@@ -12,11 +12,11 @@ int main(void)
 	char num = '0';
 	char let = 'a';
 
-	for (num = '0'; num <= '9'; a++)
+	for (num = '0'; num <= '9'; num++)
 	{
 		putchar(a);
 	}
-	for (let = 'a'; let <= 'f'; a++)
+	for (let = 'a'; let <= 'f'; let++)
 	{
 		putchar(let);
 	}
