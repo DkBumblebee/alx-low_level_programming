@@ -14,8 +14,8 @@ int main(void)
 
 	for (c = 0; c < 8; c++)
 	{
-		putchar(lett[c]);
+		_putchar(lett[c]);
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
