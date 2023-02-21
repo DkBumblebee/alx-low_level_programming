@@ -25,6 +25,7 @@
 │   ├── 8-print_base16.c
 │   ├── 9-print_comb.c
 │   └── README.md
+├── 0x02-functions_nested_loops
 └── README.md
 
-3 directories, 25 files
+4 directories, 25 files
