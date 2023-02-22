@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_to_98 - function that print all natural numbers from n to 98
+ * print_to_98 - function that print all natural numbers from n to 98,
  * Return: Void
  */
 
