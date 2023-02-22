@@ -3,13 +3,14 @@
 
 /**
  * print_to_98 - function that print all natural numbers from n to 98,
+ * @n: Starting number
  * Return: Void
  */
 
 void print_to_98(int n)
-
 {
 	int o, p;
+
 	if (n <= 98)
 	{
 		for (o = n; o <= 98; o++)
