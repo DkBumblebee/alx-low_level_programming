@@ -47,7 +47,10 @@
 │   ├── _putchar.c
 │   └── README.md
 ├── 0x03-debugging
+│   ├── 0-main.c
+│   ├── 0-main.h
+│   ├── 1-main.c
 │   └── README.md
 └── README.md
 
-5 directories, 46 files
+5 directories, 49 files
