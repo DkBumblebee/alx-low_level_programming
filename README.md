@@ -48,9 +48,12 @@
 │   └── README.md
 ├── 0x03-debugging
 │   ├── 0-main.c
-│   ├── 0-main.h
 │   ├── 1-main.c
+│   ├── 2-largest_number.c
+│   ├── 3-print_remaining_days.c
+│   ├── main.h
 │   └── README.md
+├── 0x04-more_functions_nested_loops
 └── README.md
 
-5 directories, 49 files
+6 directories, 51 files
