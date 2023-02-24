@@ -8,20 +8,20 @@
 int main(void)
 {
 	long num = 612852475143;
-	int a = 0;
+	int val;
 
-	while (a++ < num / 2)
+	while (val++ < num / 2)
 	{
-		if (num % a == 0)
+		if (num % val == 0)
 		{
 			num /= 2;
 			continue;
 		}
 
-			for (a = 3; a < num / 2; a += 2)
+			for (val = 3; val < num / 2; val += 2)
 			{
-				if (num % a == 0)
-				num /= a;
+				if (num % val == 0)
+				num /= val;
 			}
 	}
 	printf("%ld\n", num);
