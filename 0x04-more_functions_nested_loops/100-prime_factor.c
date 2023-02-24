@@ -8,7 +8,7 @@
 int main(void)
 {
 	long num = 612852475143;
-	int a;
+	int a = 0;
 
 	while (a++ < num / 2)
 	{
@@ -24,6 +24,6 @@ int main(void)
 				num /= a;
 			}
 	}
-	printf("%d\n", num);
+	printf("%ld\n", num);
 	return (0);
 }
