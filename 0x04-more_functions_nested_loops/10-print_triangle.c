@@ -27,6 +27,6 @@ void print_triangle(int size)
 			_putchar('\n');
 		}
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
 
