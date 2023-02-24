@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main: prints the largest prime factors
+ * main - prints the largest prime factors
  * Return: Always 0
  */
 
@@ -18,7 +18,7 @@ int main(void)
 			continue;
 		}
 
-			for (a = 3; a < num/2; a +=2 )
+			for (a = 3; a < num / 2; a += 2)
 			{
 				if (num % a == 0)
 				num /= a;
