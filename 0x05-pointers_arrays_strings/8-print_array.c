@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * puts_half - Prints half string
- * @str: string to check
+ * print_array - Prints elements
+ * @a: First check
+ * @n: second check
  * Return: 0
  */
 
