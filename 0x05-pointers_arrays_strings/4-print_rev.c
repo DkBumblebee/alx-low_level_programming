@@ -8,7 +8,7 @@
 
 void print_rev(char *s)
 {
-	int len = 0, index = o;
+	int len = 0, index = 0;
 
 	len = _strlen(s);
 
@@ -19,7 +19,7 @@ void print_rev(char *s)
 }
 /**
  * _strlen - checks length of string
- * @s: string
+ * @s: string to check
  * return : 0
  */
 
