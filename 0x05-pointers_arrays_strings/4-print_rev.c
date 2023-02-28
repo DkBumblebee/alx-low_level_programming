@@ -18,9 +18,9 @@ void print_rev(char *s)
 	_putchar('\n');
 }
 /**
- * _strlen - checks length of string
+ * _strlen - Checks length of string
  * @s: string to check
- * return : 0
+ * Return: 0
  */
 
 int _strlen(char *s)
