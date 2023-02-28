@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * puts2 - prints all characters
+ * rev_string - function that reverses a string
  * @str: string to check
  * Return: 0
  */
-void puts2(char *str)
+void rev_string(char *str)
 {
 	int i = 0;
 
