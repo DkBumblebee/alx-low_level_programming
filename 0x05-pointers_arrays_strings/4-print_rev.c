@@ -23,7 +23,7 @@ void print_rev(char *s)
  * return : 0
  */
 
-int _strlen(char *)
+int _strlen(char *s)
 {
 	int count, i;
 
