@@ -54,6 +54,36 @@
 │   ├── main.h
 │   └── README.md
 ├── 0x04-more_functions_nested_loops
+│   ├── 0-isupper.c
+│   ├── 100-prime_factor.c
+│   ├── 101-print_number.c
+│   ├── 10-print_triangle.c
+│   ├── 1-isdigit.c
+│   ├── 2-mul.c
+│   ├── 3-print_numbers.c
+│   ├── 4-print_most_numbers.c
+│   ├── 5-more_numbers.c
+│   ├── 6-print_line.c
+│   ├── 7-print_diagonal.c
+│   ├── 8-print_square.c
+│   ├── 9-fizz_buzz.c
+│   ├── main.h
+│   └── README.md
+├── 0x05-pointers_arrays_strings
+│   ├── 0-reset_to_98.c
+│   ├── 100-atoi.c
+│   ├── 101-keygen.c
+│   ├── 1-swap.c
+│   ├── 2-strlen.c
+│   ├── 3-puts.c
+│   ├── 4-print_rev.c
+│   ├── 5-rev_string.c
+│   ├── 6-puts2.c
+│   ├── 7-puts_half.c
+│   ├── 8-print_array.c
+│   ├── 9-strcpy.c
+│   ├── main.h
+│   └── README.md
 └── README.md
 
-6 directories, 51 files
+7 directories, 80 files
