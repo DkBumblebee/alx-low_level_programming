@@ -1,11 +1,11 @@
 #include "main.h"
 
-/*
- * _strcat - links chararter in sting src
+/**
+ * _strcat - Link chararter in sting src
  * @dest: Destination
  * @src: Source
  * Return: string @dest
- **/
+ */
 
 char *_strcat(char *dest, char *src)
 {
