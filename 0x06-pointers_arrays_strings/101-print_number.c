@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
-* print_number - Changes integers with signs
-* @n: Integer
-*
-* Return: New string
-*/
+ * print_number - Changes integers with signs
+ * @n: Integer
+ *
+ * Return: New string
+ */
+
 void print_number(int n)
 {
 	unsigned int num = n;
@@ -16,7 +18,8 @@ void print_number(int n)
 	}
 
 	if ((num / 10) > 0)
+	{
 		print_number(num / 10);
-
+	}
 	_putchar((num % 10) + '0');
 }
