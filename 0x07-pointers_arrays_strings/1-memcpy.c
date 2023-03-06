@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memset - The _memset() fuction files
+ * _memcpy - The _memcpy() fuction copies n bytes
  * @dest: A distination pointer
  * @src: A source pointer
  * @n: number of bytes t copy
