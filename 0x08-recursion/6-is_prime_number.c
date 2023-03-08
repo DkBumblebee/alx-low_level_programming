@@ -10,9 +10,11 @@ int actual_prime(int n, int i);
 
 int is_prime_number(int n)
 {
+	int start = n / 2;
+
 	if (n <= 1)
 		return (0);
-	return (is_prime(n, n - 1));
+	return (is_prime(n, start));
 }
 
 
@@ -23,11 +25,11 @@ int is_prime_number(int n)
  * Return: 1 if n is prime, 0 if not
  */
 
-int is_prime(int n, int i)
+int is_prime(int n, int start)
 {
-	if (i == 1)
+	if (start == 1)
 		return (1);
-	if (n % 1 == 0 && i > 0)
+	else if (n % start == 0 && start > 0)
 		return (0);
-	return (is_prime(n, i - 1));
+	return (is_prime(n, start - 1));
 }
