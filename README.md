@@ -1,5 +1,5 @@
 .
-├── 0x00-hello_world<br>
+├── 0x00-hello_world
 │   ├── 0-preprocessor
 │   ├── 100-intel
 │   ├── 101-quote.c
@@ -9,8 +9,8 @@
 │   ├── 4-puts.c
 │   ├── 5-printf.c
 │   ├── 6-size.c
-│   └── README.md<br>
-├── 0x01-variables_if_else_while<br>
+│   └── README.md
+├── 0x01-variables_if_else_while
 │   ├── 0-positive_or_negative.c
 │   ├── 100-print_comb3.c
 │   ├── 101-print_comb4.c
@@ -24,8 +24,8 @@
 │   ├── 7-print_tebahpla.c
 │   ├── 8-print_base16.c
 │   ├── 9-print_comb.c
-│   └── README.md<br>
-├── 0x02-functions_nested_loops<br>
+│   └── README.md
+├── 0x02-functions_nested_loops
 │   ├── 0-putchar.c
 │   ├── 100-times_table.c
 │   ├── 101-natural.c
@@ -45,15 +45,15 @@
 │   ├── 9-times_table.c
 │   ├── main.h
 │   ├── _putchar.c
-│   └── README.md<br>
-├── 0x03-debugging<br>
+│   └── README.md
+├── 0x03-debugging
 │   ├── 0-main.c
 │   ├── 1-main.c
 │   ├── 2-largest_number.c
 │   ├── 3-print_remaining_days.c
 │   ├── main.h
-│   └── README.md<br>
-├── 0x04-more_functions_nested_loops<br>
+│   └── README.md
+├── 0x04-more_functions_nested_loops
 │   ├── 0-isupper.c
 │   ├── 100-prime_factor.c
 │   ├── 101-print_number.c
@@ -68,8 +68,8 @@
 │   ├── 8-print_square.c
 │   ├── 9-fizz_buzz.c
 │   ├── main.h
-│   └── README.md<br>
-├── 0x05-pointers_arrays_strings<br>
+│   └── README.md
+├── 0x05-pointers_arrays_strings
 │   ├── 0-reset_to_98.c
 │   ├── 100-atoi.c
 │   ├── 101-keygen.c
@@ -83,8 +83,8 @@
 │   ├── 8-print_array.c
 │   ├── 9-strcpy.c
 │   ├── main.h
-│   └── README.md<br>
-├── 0x06-pointers_arrays_strings<br>
+│   └── README.md
+├── 0x06-pointers_arrays_strings
 │   ├── 0-strcat.c
 │   ├── 100-rot13.c
 │   ├── 101-print_number.c
@@ -99,8 +99,8 @@
 │   ├── 6-cap_string.c
 │   ├── 7-leet.c
 │   ├── main.h
-│   └── README.md<br>
-├── 0x07-pointers_arrays_strings<br>
+│   └── README.md
+├── 0x07-pointers_arrays_strings
 │   ├── 0-memset.c
 │   ├── 100-set_string.c
 │   ├── 101-crackme_password
@@ -113,8 +113,8 @@
 │   ├── 8-print_diagsums.c
 │   ├── crackme2
 │   ├── main.h
-│   └── README.md<br>
-├── 0x08-recursion<br>
+│   └── README.md
+├── 0x08-recursion
 │   ├── 0-puts_recursion.c
 │   ├── 100-is_palindrome.c
 │   ├── 101-wildcmp.c
@@ -125,7 +125,52 @@
 │   ├── 5-sqrt_recursion.c
 │   ├── 6-is_prime_number.c
 │   ├── main.h
-│   └── README.md<br>
+│   └── README.md
+├── 0x09-static_libraries
+│   ├── 0-isupper.c
+│   ├── 0-isupper.o
+│   ├── 0-memset.c
+│   ├── 0-memset.o
+│   ├── 0-strcat.c
+│   ├── 0-strcat.o
+│   ├── 100-atoi.c
+│   ├── 100-atoi.o
+│   ├── 1-isdigit.c
+│   ├── 1-isdigit.o
+│   ├── 1-memcpy.c
+│   ├── 1-memcpy.o
+│   ├── 1-strncat.c
+│   ├── 1-strncat.o
+│   ├── 2-strchr.c
+│   ├── 2-strchr.o
+│   ├── 2-strlen.c
+│   ├── 2-strlen.o
+│   ├── 2-strncpy.c
+│   ├── 2-strncpy.o
+│   ├── 3-islower.c
+│   ├── 3-islower.o
+│   ├── 3-puts.c
+│   ├── 3-puts.o
+│   ├── 3-strcmp.c
+│   ├── 3-strcmp.o
+│   ├── 3-strspn.c
+│   ├── 3-strspn.o
+│   ├── 4-isalpha.c
+│   ├── 4-isalpha.o
+│   ├── 4-strpbrk.c
+│   ├── 4-strpbrk.o
+│   ├── 5-strstr.c
+│   ├── 5-strstr.o
+│   ├── 6-abs.c
+│   ├── 6-abs.o
+│   ├── 9-strcpy.c
+│   ├── 9-strcpy.o
+│   ├── create_static_lib.sh
+│   ├── libmy.a
+│   ├── main.h
+│   ├── _putchar.c
+│   ├── _putchar.o
+│   └── README.md
 └── README.md
 
-10 directories, 119 files
+11 directories, 163 files
