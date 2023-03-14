@@ -179,6 +179,16 @@
 │   ├── 3-mul.c
 │   ├── 4-add.c
 │   └── README.md
+├── 0x0B-malloc_free
+│   ├── 0-create_array.c
+│   ├── 100-argstostr.c
+│   ├── 101-strtow.c
+│   ├── 1-strdup.c
+│   ├── 2-str_concat.c
+│   ├── 3-alloc_grid.c
+│   ├── 4-free_grid.c
+│   ├── main.h
+│   └── README.md
 └── README.md
 
-12 directories, 170 files
+13 directories, 179 files
