@@ -7,6 +7,8 @@ char *str_concat(char *s1, char *s2);
 int **alloc_grid(int width, int height);
 void free_grid(int **grid, int height);
 char *argstostr(int ac, char **av);
+int len(char *str);
+int count_word(char *s)
 char **strtow(char *str);
 
 #endif
