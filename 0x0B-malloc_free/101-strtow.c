@@ -29,7 +29,7 @@ char **strtow(char *str)
 				{
 					while (temp < size)
 					{
-						split[j][temp] = str[(i - size) +temp];
+						split[j][temp] = str[(i - size) + temp];
 						temp++;
 					}
 					split[j][temp] = '\0';
@@ -38,7 +38,7 @@ char **strtow(char *str)
 				}
 				else
 				{
-					while (j-- >= 0)
+					while ((j--) >= 0)
 						free(split[j]);
 						free(split);
 					return (NULL);
