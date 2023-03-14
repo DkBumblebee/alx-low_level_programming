@@ -10,7 +10,7 @@
  * Success
  */
 
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *duplist;
 	int i, len;
