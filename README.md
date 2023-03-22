@@ -189,6 +189,21 @@
 │   ├── 4-free_grid.c
 │   ├── main.h
 │   └── README.md
+├── 0x0C-more_malloc_free
+│   ├── 0-malloc_checked.c
+│   ├── 100-realloc.c
+│   ├── 1-string_nconcat.c
+│   ├── 2-calloc.c
+│   ├── 3-array_range.c
+│   ├── main.h
+│   └── README.md
+├── 0x0D-preprocessor
+│   ├── 0-object_like_macro.h
+│   ├── 1-pi.h
+│   ├── 2-main.c
+│   ├── 3-function_like_macro.h
+│   ├── 4-sum.h
+│   └── README.md
 └── README.md
 
-13 directories, 179 files
+15 directories, 192 files
