@@ -204,6 +204,31 @@
 │   ├── 3-function_like_macro.h
 │   ├── 4-sum.h
 │   └── README.md
+├── 0x0E-structures_typedef
+│   ├── 1-init_dog.c
+│   ├── 2-print_dog.c
+│   ├── 4-new_dog.c
+│   ├── 5-free_dog.c
+│   ├── dog.h
+│   └── README.md
+├── 0x0F-function_pointers
+│   ├── 0-print_name.c
+│   ├── 100-main_opcodes.c
+│   ├── 1-array_iterator.c
+│   ├── 2-int_index.c
+│   ├── 3-calc.h
+│   ├── 3-get_op_func.c
+│   ├── 3-main.c
+│   ├── 3-op_functions.c
+│   ├── function_pointers.h
+│   └── README.md
+├── 0x10-variadic_functions
+│   ├── 0-sum_them_all.c
+│   ├── 1-print_numbers.c
+│   ├── 2-print_strings.c
+│   ├── 3-print_all.c
+│   ├── README.md
+│   └── variadic_functions.h
 └── README.md
 
-15 directories, 192 files
+18 directories, 214 files
